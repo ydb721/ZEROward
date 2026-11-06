@@ -1,0 +1,16 @@
+﻿**/node_modules/
+**/build/
+**/output/
+**/.env
+**/.env.*
+**/.vercel/
+**/*.exe
+**/*.zip
+**/*.log
+**/*.pem
+**/*.key
+**/*.pfx
+**/*.p12
+**/*token*.json
+**/*secret*.json
+**/*credential*.json
